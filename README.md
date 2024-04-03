@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=schneegans&show_icons=true&rank_icon=percentile&hide=contribs&card_width=200&hide_title=true&theme=github_dark_dimmed"
@@ -7,7 +8,7 @@
   />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=schneegans&show_icons=true&rank_icon=percentile&hide=contribs&card_width=200&hide_title=true" />
 </picture>
-
+-->
 
 I am currently working at the University Bremen in close collaboration with the German Aerospace Center and the Bauhaus University Weimar.
 
